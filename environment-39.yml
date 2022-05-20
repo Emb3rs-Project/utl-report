@@ -1,0 +1,17 @@
+name: utl-report-test
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9
+  - pip=
+  - colorama=
+  - numpy=
+  - pandas=
+  - geopy=
+  - pvlib-python=
+  - urllib3=
+  - beautifulsoup4=
+  - matplotlib=
+  - requests=
+  - pydantic
